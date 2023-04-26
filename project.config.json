@@ -1,0 +1,15 @@
+{
+    "miniprogramRoot": "./dist",
+    "projectname": "taro-latest",
+    "description": "taro latest",
+    "appid": "tt20285695bf165ede01",
+    "setting": {
+        "urlCheck": true,
+        "es6": false,
+        "enhance": false,
+        "compileHotReLoad": false,
+        "postcss": false,
+        "minified": false
+    },
+    "compileType": "miniprogram"
+}
